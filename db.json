@@ -1,0 +1,41 @@
+{
+  "options":
+  [
+    {  "id":"1",
+        "title":"Botox",
+        "description":"Botox is a drug made from a toxin produced by the bacterium Clostridium botulinum. ",
+        "backgroundColor":"rgba(176,224,230,0.4)",
+        "image":"https://www.justinboey.com/wp-content/uploads/2019/12/botox-for-the-jawline-explore-the-risks-and-downtime.jpg",
+        "sub":"20 specialists"
+    },
+    {
+       "id":"2",
+        "title":"Facial",
+        "description":"What does a medical facial do you ask? Well, a medical facial cleanses, exfoliates, and nourishes the skin, promoting a clear, well-hydrated complexion.",
+           "backgroundColor":"rgba(209,159,232,0.2)",
+           "image":"https://images.unsplash.com/photo-1552693673-1bf958298935?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8ZmFjaWFsfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+              "sub":"20 specialists"
+    },
+    {
+       "id":"3",
+        "title":"Plastic Surgery",
+        "description":"Plastic surgery deals with the repair, reconstruction, or replacement of physical defects of form or function involving the skin, musculoskeletal system, cranio and maxillofacial structure",
+      "backgroundColor":"rgba(250,218,221,0.5)",
+      "image":"https://images.unsplash.com/photo-1584982751601-97dcc096659c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1472&q=80",
+         "sub":"20 specialists"
+    },
+     {
+       "id":"4",
+        "title":"Transplant",
+        "description":"Microdermabrasion treatments use a minimally abrasive instrument to gently sand your skin, removing the thicker, uneven outer layer, and has many benefits. ",
+   "backgroundColor":"rgba(255,250,205,0.3)",
+   "image":"https://www.mountelizabeth.com.sg/images/default-source/default-album/getting-a-transplant.jpg",
+      "sub":"20 specialists"
+   }
+
+]
+  
+  
+
+
+}    
